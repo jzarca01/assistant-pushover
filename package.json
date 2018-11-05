@@ -1,8 +1,8 @@
 {
   "name": "assistant-pushover",
-  "version": "2.0.0",
-  "description": "Plugin pushover pour assistant",
-  "author": "Jérémie Zarca",
+  "version": "1.0.0",
+  "description": "Un plugin pushover pour assistant-plugins",
+  "author": "Jérémie Zarca <jeremie.zarca@gmail.com>",
   "main": "index.js",
   "repository": "https://github.com/jzarca01/assistant-pushover/",
   "license": "MIT",
